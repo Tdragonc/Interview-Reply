@@ -1,6 +1,4 @@
-# Reply
-
-Answer to Question 1
+# Answer to Question 1
 
 1st type of customers, 1 delivery every week.
 
@@ -48,7 +46,7 @@ the right customer, the address will be automatically filled in.
 4. Provide a code to keep track of the items
 It is linked to the receiver ID, and it is stored so that when the information is required, it is easy to retrieve.
 
-Answer to Question 2 
+# Answer to Question 2 
 
 This is done using python 2.7.13.
 
