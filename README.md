@@ -52,5 +52,5 @@ This is done using python 2.7.13.
 
 # Answer to Question 3
 
-
+I attempted it in currying.js
 
